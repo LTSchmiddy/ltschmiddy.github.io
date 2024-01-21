@@ -1,0 +1,27 @@
+{
+  "name": "ltschmiddy.github.io",
+  "version": "1.0.0",
+  "description": "Setting this up for my web class... again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTSchmiddy/ltschmiddy.github.io.git"
+  },
+  "keywords": [
+    "Kill-Me"
+  ],
+  "author": "LT_Schmiddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTSchmiddy/ltschmiddy.github.io/issues"
+  },
+  "homepage": "https://github.com/LTSchmiddy/ltschmiddy.github.io#readme",
+  "dependencies": {
+    "sass": "^1.70.0",
+    "save-dev": "0.0.1-security",
+    "tsc": "^2.0.4"
+  }
+}
