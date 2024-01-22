@@ -19,9 +19,9 @@
     "url": "https://github.com/LTSchmiddy/ltschmiddy.github.io/issues"
   },
   "homepage": "https://github.com/LTSchmiddy/ltschmiddy.github.io#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "sass": "^1.70.0",
-    "save-dev": "0.0.1-security",
-    "tsc": "^2.0.4"
+    "typescript": "^5.3.3"
   }
 }

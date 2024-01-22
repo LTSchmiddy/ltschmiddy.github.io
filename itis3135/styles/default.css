@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: greenyellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contBox {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 5px 50px 5px 50px;
+  display: block;
+  overflow: hidden;
+}
+
+h1, h2, h3 {
+  font-family: monospace;
+}
+
+@media only screen and (min-width: 1200px) {
+  .contBox {
+    width: calc(90% - 600px);
+  }
+}
+/* Main Content */
+header {
+  position: relative;
+  min-height: 35px;
+  margin-bottom: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+  z-index: -1;
+  background-color: greenyellow;
+  color: black;
+}
+
+nav a {
+  text-decoration: underline;
+}
+
+main {
+  margin-bottom: 20px;
+  min-height: 65vh;
+}
+main strong {
+  color: green;
+}
+
+footer {
+  border-top: 2px solid greenyellow;
+  text-align: center;
+}
+
+/*# sourceMappingURL=default.css.map */
